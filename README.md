@@ -3,8 +3,8 @@ Hi there 👋
 
 I am Nilima Dahal, a Compter Science enthusiast interested in Reesearch, Data Science, Graphics Designing and Human Computer Interaction.
 
-<HTML>
-
+<!DOCTYPE>
+<body>
 <img src="https://drive.google.com/file/d/1fXte9rgade15pBtqm-Mrwyqy1auVaXWK/view?usp=sharing" >
 
 
