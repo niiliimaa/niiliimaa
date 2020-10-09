@@ -3,7 +3,7 @@ Hi there 👋
 
 I am Nilima Dahal, a Compter Science enthusiast interested in Reesearch, Data Science, Graphics Designing and Human Computer Interaction.
 
-<img src="header.jpg" height="400" align="centre"></img>
+<img src="header.jpg" width="850" height="400" align="centre"></img>
 
 <!--
 **niiliimaa/niiliimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
