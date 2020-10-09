@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there 👋
+
+
+I am Nilima Dahal, a Compter Science enthusiast interested in Reesearch, Data Science, Graphics Designing and Human Computer Interaction.
+
+
 
 <!--
 **niiliimaa/niiliimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
