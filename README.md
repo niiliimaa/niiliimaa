@@ -3,7 +3,7 @@ Hi there 👋
 
 I am Nilima Dahal, a Compter Science enthusiast interested in Reesearch, Data Science, Graphics Designing and Human Computer Interaction.
 
-<img src="header.png"  height="350" align='centre'></img>
+<img height="350" align='centre' src="header.png"  ></img>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/nilimadahal" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> 
