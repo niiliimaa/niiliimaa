@@ -1,12 +1,15 @@
-Hi there 👋
+##Hi there 👋
 
 
 I am Nilima Dahal, a Compter Science enthusiast interested in Reesearch, Data Science, Graphics Designing and Human Computer Interaction.
 
 <img height="350" align='centre' src="header.png"  ></img>
 
-<p align='center'>
-<a href="https://www.medium.com/@nilimadahal55" target="_blank"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a> <a href="https://www.linkedin.com/in/nilimadahal" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://www.instagram.com/niiiliiimaaa" target="_blank"><ing src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"
+<p align='left'>
+<a href="https://www.medium.com/@nilimadahal55" target="_blank"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a> <a href="https://www.linkedin.com/in/nilimadahal" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://www.instagram.com/niiiliiimaaa/" target="_blank"><ing src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"
+
+
+
 <!--
 **niiliimaa/niiliimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
